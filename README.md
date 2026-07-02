@@ -1,3 +1,64 @@
+# 🧠 React Quiz App
+
+A simple and interactive Quiz Application built with **React** and **Tailwind CSS**.
+
+---
+
+## 📸 Screenshots
+
+### Home
+
+![Home](https://github.com/user-attachments/assets/22e65d96-827c-4475-a6bf-ac57159dc88c)
+
+### Quiz
+
+![Quiz]((https://github.com/user-attachments/assets/22e65d96-827c-4475-a6bf-ac57159dc88c)
+
+### Result
+
+![Result](https://github.com/user-attachments/assets/01725464-d1f0-41d8-8081-2e1fe308200f)
+
+---
+
+## 🚀 Features
+
+- 🎯 Multiple Choice Questions
+- ⏱️ Countdown Timer
+- ✅ Instant Answer Feedback
+- 📊 Final Score Summary
+- 📱 Responsive Design
+
+---
+
+## 🛠️ Built With
+
+- React
+- Tailwind CSS
+- React Icons
+- Vite
+
+---
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/amar-omar/Quiz-App.git
+
+cd Quiz-App
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 👨‍💻 Author
+
+**Amar Omar**
+
+GitHub: https://github.com/amar-omar
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
