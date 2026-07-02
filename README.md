@@ -10,10 +10,6 @@ A simple and interactive Quiz Application built with **React** and **Tailwind CS
 
 ![Home](https://github.com/user-attachments/assets/22e65d96-827c-4475-a6bf-ac57159dc88c)
 
-### Quiz
-
-![Quiz]((https://github.com/user-attachments/assets/22e65d96-827c-4475-a6bf-ac57159dc88c)
-
 ### Result
 
 ![Result](https://github.com/user-attachments/assets/01725464-d1f0-41d8-8081-2e1fe308200f)
