@@ -18,7 +18,7 @@ export default function Summary({ userAnswer }) {
 
   return (
     <div
-      className="
+      className="h-screen
       w-[95%] max-w-2xl
       mx-auto mt-6
       rounded-2xl

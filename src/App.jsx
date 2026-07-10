@@ -8,7 +8,7 @@ function App() {
   return (
     <>
 
-    <div className="bg-blue-300 h-screen">
+    <div className="bg-blue-100">
       <Header />
       <Quiz />
       </div>
